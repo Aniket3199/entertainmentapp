@@ -166,6 +166,8 @@ Powered by the incredible TMDB API, the Entertainment App brings you the latest 
 - **Pages:** Five main pages, Home, Movie, Tv, Bookmark, Profile.
 - **Utils:** Contains baseUrl of api & function to fetch media
 
+Live link :https://entertainment-web-app-orpin.vercel.app
+
 <pre>
 |-- src
     |-- assets 

@@ -228,5 +228,5 @@ Live link :https://entertainment-web-app-orpin.vercel.app
 |-- tailwind.cofig.js
 |-- vite.config.js 
 </pre>
-
+Author- Aniket Tembhurne
 ## Thank You 
